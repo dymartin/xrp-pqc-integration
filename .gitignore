@@ -1,0 +1,6 @@
+# Obsidian vault artifacts
+vault/.obsidian/workspace*.json
+vault/.obsidian/cache
+vault/.obsidian/appearance.json
+vault/.obsidian/plugins/*/data.json
+vault/.trash/
